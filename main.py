@@ -32,14 +32,14 @@ moedas = ("Льодник",
         "Zlato",
         "Řezník")
 
-taxas = {"Льодник": 10.00 , 
-        "Marco-Frances": 7.50,
-        "Kremówka": 5.80,
-        "Schwarzler": 4.30,
-        "Korona-Víz": 3.70,
-        "Monedă de Cupru": 2.50,
-        "Zlato":  1.80,
-        "Řezník":  1.00}
+taxas = {"Льодник": 1.00 , 
+        "Marco-Frances": 0.75,
+        "Kremówka": 0.58,
+        "Schwarzler": 0.43,
+        "Korona-Víz": 0.37,
+        "Monedă de Cupru": 0.25,
+        "Zlato":  0.18,
+        "Řezník":  0.10}
 
 sleep(1)
 base = int(input("Converter de: "))
